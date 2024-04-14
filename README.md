@@ -52,6 +52,10 @@ In order to execute the scan:
 
 
 ## Step 7 is done
+In this stage:
+- I have done authenticated scans.
+- Compared the results of the unauthenticated and authenticated scans.
+- Removed the insecure software and observed the decrease of vulnerabilities. 
 
 
 
