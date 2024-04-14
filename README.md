@@ -1,5 +1,8 @@
 # Authenticated Scan Execution 
 
+![image](https://github.com/Ashrafs-Tech/AuthenticatedScan/assets/166546026/19d8406c-3e42-49ec-8a05-e8f621bf639d)
+
+
 ## Intro
 
 In order to execute the scan:
