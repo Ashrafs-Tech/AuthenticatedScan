@@ -51,7 +51,7 @@ In order to execute the scan:
 ![VL 47](https://github.com/Ashrafs-Tech/AuthenticatedScan/assets/166546026/da6a6613-d336-49c6-9784-80738d077033)
 
 
-## Step 7 is done
+## The final state is done
 In this stage:
 - I have done authenticated scans.
 - Compared the results of the unauthenticated and authenticated scans.
